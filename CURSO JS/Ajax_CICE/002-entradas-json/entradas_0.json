@@ -1,0 +1,20 @@
+{
+    "blog": [
+        {"titulo":"Entrada 1","texto":"texto entrada 1"},
+        {"titulo":"Entrada 2","texto":"texto entrada 2"},
+        {"titulo":"Entrada 3","texto":"texto entrada 3"},
+        {"titulo":"Entrada 1","texto":"texto entrada 1"},
+        {"titulo":"Entrada 2","texto":"texto entrada 2"},
+        {"titulo":"Entrada 3","texto":"texto entrada 3"},
+        {"titulo":"Entrada 1","texto":"texto entrada 1"},
+        {"titulo":"Entrada 2","texto":"texto entrada 2"},
+        {"titulo":"Entrada 3","texto":"texto entrada 3"},
+        {"titulo":"Entrada 1","texto":"texto entrada 1"},
+        {"titulo":"Entrada 2","texto":"texto entrada 2"},
+        {"titulo":"Entrada 3","texto":"texto entrada 3"}
+    ],
+    "trabajos":[
+        
+    ]
+}
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<informacion>
+
+<blog>
+    <entrada>
+        <id>1</id>
+        <titulo>Mi first post</titulo>
+        <fecha>09/04/2015</fecha>
+        <texto>This post is loading form xml file</texto>
+    </entrada>
+    
+    <entrada>
+        <id>2</id>
+        <titulo>Today 10`s April</titulo>
+        <fecha>10/04/2015</fecha>
+        <texto>We are in Spring</texto>
+    </entrada>
+</blog>
+
+
+<nosotros>
+    <titulo>About us</titulo>
+    <texto>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </texto>
+</nosotros>
+
+</informacion>
