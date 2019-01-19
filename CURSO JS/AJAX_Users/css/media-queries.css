@@ -1,0 +1,130 @@
+
+/*--------------400 px----------------------*/
+
+
+@media (min-width: 400px){
+    
+    .logo h1{
+        font-size: 1.2rem;
+    }
+    .mainNav a{
+        font-size: 20px;
+        padding-left: 10px;
+    }
+
+
+}
+
+
+@media (min-width: 445px){
+
+    .nieve .btn{
+        width: 32%;
+    }
+    .nieve .btn a{
+        font-size: 0.6rem;
+        padding: 10px;
+    }
+
+}
+/*--------------500 px----------------------*/
+
+@media (min-width: 500px){
+    .logo{
+        width: 85%;
+    }
+
+    .hamburger{
+        width: 15%;
+    }
+
+    .logo h1{
+        font-size: 1.4rem;
+    }
+    .grid4{
+        justify-content: space-between;
+
+    }
+    .tarjetaLista{
+        width: 47%;
+        margin: 10px 0px;
+    }
+
+    .masInfo:not(.historia .masInfo){
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
+/*---------600 px----------------------*/
+
+@media (min-width: 600px){
+    .historia article{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .historia article p, .historia article img{
+        width: 50%;
+        height: 100%;
+    }
+
+
+}
+
+/*---------700 px----------------------*/
+
+@media (min-width: 700px){
+    .logo{
+        width: 90%;
+    }
+    .hamburger{
+        width: 10%;
+    }
+    .mainNav ul{
+        justify-content: space-around;
+    }
+    .mainNav li{
+        width: 13.5%;
+    }
+    .mainNav a{
+        font-size: 12px;
+        padding-left: 0px;
+        
+    }
+    .tarjetaLista{
+        width: 23%;
+    }
+
+
+}
+/*----------------------900 px----------------------*/
+
+@media (min-width: 900px){
+
+    .grid4{
+        max-width: 800px;
+        justify-content: space-between;
+    }
+    .tarjetaLista{
+        margin: 10px 0;
+    }
+
+
+}
+
+
+
+
+
+
+/*--------------------1500 px----------------------*/
+
+@media (min-width: 1200px){
+    .logo{
+        width: 94%;
+    }
+    .hamburger{
+        width: 6%;
+    }
+
+}
